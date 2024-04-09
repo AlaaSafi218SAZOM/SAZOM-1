@@ -13,7 +13,7 @@ import os
 import math
 #----------------------------------------------- print
 print('-'*50)
-print("SAZOM Company A_Z")
+print("SAZOM Company v1.0")
 #--------------------------------------------
 TOKEN = "7113724596:AAE4yYczuklB_raJ2pi4vObn7BzCUpO9YwE"
 bot =  telebot.TeleBot(TOKEN)

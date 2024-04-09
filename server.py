@@ -10,4 +10,4 @@ def run():
 def SERVER():
     t = Thread(target=run)
     t.start()
-print("SERVER Run...!")
+print("SERVER Run....!")
